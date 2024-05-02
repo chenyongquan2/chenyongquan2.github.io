@@ -11,8 +11,12 @@
             "id": "679da68962a4e453",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-05-01-memory_pool_implement.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2024-05-01-memory_pool_implement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2024-05-01-memory_pool_implement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-05-01-memory_pool_implement.md"
+              }
             }
           }
         ]
@@ -140,10 +148,10 @@
   },
   "active": "679da68962a4e453",
   "lastOpenFiles": [
-    "Markdown常用语法.md",
     "2024-05-02-Markdown常用语法.md",
     "2024-05-02-git操作.md",
     "2024-05-01-memory_pool_implement.md",
+    "Markdown常用语法.md",
     "git操作.md",
     "2024-0501.md",
     "Welcome.md",

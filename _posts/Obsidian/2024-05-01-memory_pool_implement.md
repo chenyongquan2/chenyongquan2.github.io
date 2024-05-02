@@ -1,3 +1,18 @@
+---
+layout:     post
+title:      "内存池"
+subtitle:   " \"手撕内存池\""
+date:       2024-05-01 10:00:00
+author:     "Chenyongquan2"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - C++
+    - 内存池
+    - Memorypool
+---
+
+
 # 内存池实现
 文档说明
 [記憶池 (jonny.vip)](https://jonny.vip/2019/07/16/%E8%A8%98%E6%86%B6%E6%B1%A0/)
