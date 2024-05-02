@@ -8,41 +8,10 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d49a3ccaa518482",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git操作.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47b3f87c03ad9031",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-0501.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "4db5796be72aca3e",
-        "type": "tabs",
-        "children": [
-          {
             "id": "679da68962a4e453",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -112,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-0501.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-0501.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024-0501.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -173,10 +138,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "47b3f87c03ad9031",
+  "active": "679da68962a4e453",
   "lastOpenFiles": [
-    "git操作.md",
     "Markdown常用语法.md",
+    "2024-05-02-Markdown常用语法.md",
+    "2024-05-02-git操作.md",
+    "2024-05-01-memory_pool_implement.md",
+    "git操作.md",
     "2024-0501.md",
     "Welcome.md",
     "未命名.md",
