@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "a0d5249d08bc8143",
+    "type": "split",
+    "children": [
+      {
+        "id": "58999626102a25fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d49a3ccaa518482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git操作.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47b3f87c03ad9031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-0501.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4db5796be72aca3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "679da68962a4e453",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3a2b8669ac08b3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "68da3fc788e55beb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84f1c3442ee9b6dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a5c0082cd6876fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f086b14fc91866dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2b9021b835ff2dc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "698d2469eeabe9af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bec62286e3a2e791",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-0501.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1afd2b5dc72e98fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-0501.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ed3b14f14c0feef1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3e05b6c567249fe8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-0501.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "47b3f87c03ad9031",
+  "lastOpenFiles": [
+    "git操作.md",
+    "Markdown常用语法.md",
+    "2024-0501.md",
+    "Welcome.md",
+    "未命名.md",
+    "img/Pasted image 20240502170130.png",
+    "img/Pasted image 20240502235044.png",
+    "img/Pasted image 20240502172242.png",
+    "img/Pasted image 20240502171939.png",
+    "img/Pasted image 20240502171830.png",
+    "img/Pasted image 20240502171659.png",
+    "img/Pasted image 20240502171512.png",
+    "img/Pasted image 20240502184635.png",
+    "img/Pasted image 20240502184522.png",
+    "img/Pasted image 20240502174741.png",
+    "img",
+    "新建文件夹",
+    "Markdown常用语法"
+  ]
+}
