@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "58999626102a25fe",
+        "id": "2a46f5859e2266d4",
         "type": "tabs",
         "children": [
           {
@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-01-memory_pool_implement.md",
+                "file": "2024-05-03-测试图片是否能正常显示.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-01-memory_pool_implement.md",
+                "file": "2024-05-03-测试图片是否能正常显示.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-01-memory_pool_implement.md",
+                "file": "2024-05-03-测试图片是否能正常显示.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-01-memory_pool_implement.md"
+                "file": "2024-05-03-测试图片是否能正常显示.md"
               }
             }
+          },
+          {
+            "id": "25f975750b895cc9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,29 +151,30 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "679da68962a4e453",
   "lastOpenFiles": [
-    "2024-05-02-Markdown常用语法.md",
-    "2024-05-02-git操作.md",
     "2024-05-01-memory_pool_implement.md",
+    "2024-05-03-测试图片是否能正常显示.md",
+    "2024-05-02-Markdown常用语法.md",
+    "img/20240503_2024-05-03-测试图片是否能正常显示.png",
+    "img/20240503_未命名-3.png",
+    "img/20240503_未命名-2.png",
+    "img/20240503_未命名-1.png",
+    "img/2-20240503_未命名.png",
+    "img/1-20240503_未命名.png",
+    "img/20240503_未命名.png",
+    "img/Pasted image 20240503095933.png",
+    "img/Pasted image 20240502185707.png",
+    "img/Pasted image 20240503095325.png",
+    "2024-05-02-git操作.md",
     "Markdown常用语法.md",
     "git操作.md",
     "2024-0501.md",
     "Welcome.md",
-    "未命名.md",
-    "img/Pasted image 20240502170130.png",
-    "img/Pasted image 20240502235044.png",
-    "img/Pasted image 20240502172242.png",
-    "img/Pasted image 20240502171939.png",
-    "img/Pasted image 20240502171830.png",
-    "img/Pasted image 20240502171659.png",
-    "img/Pasted image 20240502171512.png",
-    "img/Pasted image 20240502184635.png",
-    "img/Pasted image 20240502184522.png",
-    "img/Pasted image 20240502174741.png",
     "img",
     "新建文件夹",
     "Markdown常用语法"

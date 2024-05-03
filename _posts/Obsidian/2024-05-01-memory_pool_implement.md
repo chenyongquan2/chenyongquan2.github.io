@@ -1,15 +1,15 @@
 ---
-layout:     post
-title:      "内存池"
-subtitle:   " \"手撕内存池\""
-date:       2024-05-01 10:00:00
-author:     "Chenyongquan2"
-header-img: "img/post-bg-2015.jpg"
+layout: post
+title: memory_pool_implement
+subtitle: ' "手撕内存池"'
+date: 2024-05-01 10:00:00
+author: Chenyongquan2
+header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-    - C++
-    - 内存池
-    - Memorypool
+  - C++
+  - 内存池
+  - Memorypool
 ---
 
 
